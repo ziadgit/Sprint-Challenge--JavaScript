@@ -40,6 +40,7 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 // Explain in your own words why nestedfunction can access the variable internal.
 
 // Explanation: 
+
 // Variables defined within a block are accessible elsewhere within that block so long are inside or nested in that block. However, a variable within a nested fuction would not be accessible via the outer block that encloses it.
 
 
